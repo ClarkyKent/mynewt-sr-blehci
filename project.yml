@@ -28,5 +28,5 @@ project.repositories:
 repository.solidrun-mynewt-bsp:
     type: github
     vers: 1-latest
-    user: SolidRun
+    user: ClarkyKent
     repo: solidrun-mynewt-bsp
